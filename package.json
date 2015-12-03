@@ -1,0 +1,15 @@
+{
+  "name": "pdfbox",
+  "description": "Wrapper for pdfbx",
+  "version": "0.0.2",
+  "author": "Paul Nordmann",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Klab-Berlin/node-pdfbox.git"
+  },
+  "dependencies": {
+    "bluebird": "^3.0"
+  },
+  "devDependencies": {},
+  "engine": "node >= 0.12.0"
+}
